@@ -1,0 +1,8 @@
+UTC run time: 2026-10-21T12:53:56.562565Z
+Java: 25.0.1+8-27 / OpenJDK 64-Bit Server VM
+OS: Windows 11 10.0 / amd64
+CPU: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+Available processors: 12
+Base seed: 20261021
+Warm-ups per case: 20
+Measured repetitions per case: 5

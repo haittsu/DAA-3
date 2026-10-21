@@ -1,0 +1,14 @@
+PASS: DSU union, rank and path compression
+PASS: Small graph with known MST weight
+PASS: Disconnected graph and isolated vertex
+PASS: Multiple MSTs and duplicate weights
+PASS: Single vertex for all algorithms
+PASS: Shortest distances, paths, zero weights and unreachable vertices
+PASS: Long distance sums and invalid inputs
+PASS: Directed cycles, self-loop and partial topological order
+PASS: Known SCC partition
+PASS: 1024 relabeled DAGs
+PASS: Random paths and SCCs against Floyd-Warshall
+PASS: MSTs against exhaustive spanning-tree search
+PASS: Required generator sizes and fixed-seed reproducibility
+13 test groups passed; 33018 correctness checks passed.
